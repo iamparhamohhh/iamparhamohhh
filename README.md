@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamparhamohhh
-- 👀 I’m interested in java :/
+- 👀 I’m interested in java and puthon :/
 - 🌱 I’m currently learning it
 - 📫 How to reach me ...
 
